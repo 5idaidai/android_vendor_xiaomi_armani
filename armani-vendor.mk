@@ -20,4 +20,3 @@ DEVICE_PACKAGE_OVERLAYS += vendor/xiaomi/armani/overlay
 $(call inherit-product, vendor/xiaomi/armani/armani-vendor-blobs.mk)
 $(call inherit-product, vendor/xiaomi/msm8226-common/msm8226-common-vendor.mk)
 
-

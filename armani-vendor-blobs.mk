@@ -16,4 +16,5 @@
 
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/armani/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
-    vendor/xiaomi/armani/proprietary/lib/modules/pronto/pronto_wlan.ko:system/lib/modules/pronto/pronto_wlan.ko
+    vendor/xiaomi/armani/proprietary/lib/modules/pronto/pronto_wlan.ko:system/lib/modules/pronto/pronto_wlan.ko \
+    vendor/xiaomi/armani/proprietary/vendor/lib/libNimsWrap.so:system/vendor/lib/libNimsWrap.so
